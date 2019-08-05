@@ -8,4 +8,7 @@
 #include <iostream>
 using namespace std;
 
-void sub(); 
+void sub() 
+{
+    cout << "hello" << endl; 
+}
